@@ -7,13 +7,16 @@ A place for me to track my study progress.
 ### $\color{#2804E0}{\textbf{University in the North}}$
 
 #### $\color{#2804E0}{\textsf{- Mathematics}}$
+- $\color{#28FFD1}{\textsf{Statistics}}$
+- $\color{#28FFD1}{\textsf{Calculus 2}}$
 - $\color{#28FFD1}{\textsf{Discrete Maths 1}}$
 - $\color{#28FFD1}{\textsf{Calculus 1}}$
 
 #### $\color{#2804E0}{\textsf{- Japanese}}$
 - $\color{#ff592b}{\textsf{Japanese 202}}$
 - $\color{#ff592b}{\textsf{Japanese 201}}$
-- $\color{#ff592b}{\textsf{Japanese 101 \& 102}}$
+- $\color{#ff592b}{\textsf{Japanese 102}}$
+- $\color{#ff592b}{\textsf{Japanese 101}}$
 
 #### $\color{#2804E0}{\textsf{- Music}}$
 - $\color{#3aff00}{\textsf{Classical Music 1}}$
