@@ -4,28 +4,26 @@
 
 A place for me to track my study progress.
 
-#### <span style="color: #2804E0">University in the North</span>
+### $\color{#2804E0}{\textbf{University in the North}}$
 
-##### <span style="color: #2804E0">- Mathematics</span>
-##### $\color{#2804E0}{\textbf{- Mathematics}}$
-##### $\color{#2804E0}{\textsf{- Mathematics}}$
-- **<span style="color: #28FFD1">Discrete Maths 1</span>**
-- **<span style="color: #28FFD1">Calculus 1</span>**
+#### $\color{#2804E0}{\textsf{- Mathematics}}$
+- $\color{#28FFD1}{\textsf{Discrete Maths 1}}$
+- $\color{#28FFD1}{\textsf{Calculus 1}}$
 
-##### <span style="color: #2804E0">- Japanese</span>
-- **<span style="color: #ff592b">Japanese 202</span>**
-- **<span style="color: #ff592b">Japanese 201</span>**
-- **<span style="color: #ff592b">Japanese 101 & 102</span>**
+#### $\color{#2804E0}{\textsf{- Japanese}}$
+- $\color{#ff592b}{\textsf{Japanese 202}}$
+- $\color{#ff592b}{\textsf{Japanese 201}}$
+- $\color{#ff592b}{\textsf{Japanese 101 \& 102}}$
 
-##### <span style="color: #2804E0">- Music</span>
-- **<span style="color: #3aff00;">Classical Music 1</span>**
-- **<span style="color: #3aff00;">Music Technology (DAW software)</span>**
+#### $\color{#2804E0}{\textsf{- Music}}$
+- $\color{#3aff00}{\textsf{Classical Music 1}}$
+- $\color{#3aff00}{\textsf{Music Technology (DAW software)}}$
 
-##### <span style="color: #2804E0">- before that</span>
-- **<span style="color: #28FFD1">Pre Calculus</span>**
-- **<span style="color: #ffaf05">Physiology</span>**
-- **<span style="color: #ffaf05">Biology</span>**
+#### $\color{#2804E0}{\textsf{- before that}}$
+- $\color{#28FFD1}{\textsf{Pre Calculus}}$
+- $\color{#ffaf05}{\textsf{Physiology}}$
+- $\color{#ffaf05}{\textsf{Biology}}$
 
-#### <span style="color: #f3492b">University in the South</span>
+### $\color{#f3492b}{\textbf{University in the South}}$
 
-#### <span style="color: #b3d4fc">All before that</span>
+### $\color{#b3d4fc}{\textbf{All before that}}$
