@@ -7,6 +7,8 @@ A place for me to track my study progress.
 #### <span style="color: #2804E0">University in the North</span>
 
 ##### <span style="color: #2804E0">- Mathematics</span>
+##### $\color{#2804E0}{\textbf{- Mathematics}}$
+##### $\color{#2804E0}{\textsf{- Mathematics}}$
 - **<span style="color: #28FFD1">Discrete Maths 1</span>**
 - **<span style="color: #28FFD1">Calculus 1</span>**
 
